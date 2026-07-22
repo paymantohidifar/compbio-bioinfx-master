@@ -14,3 +14,6 @@
 	path = bulk-rnaseq-analysis-workflow
 	url = git@github.com:paymantohidifar/bulk-rnaseq-analysis-workflow.git
 
+[submodule "biocanvas"]
+	path = biocanvas
+	url = https://github.com/paymantohidifar/BioCanvas.git
