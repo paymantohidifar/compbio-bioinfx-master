@@ -4,9 +4,6 @@
 [submodule "deep-learning-for-biology-book"]
 	path = deep-learning-for-biology-book
 	url = git@github.com:paymantohidifar/deep-learning-for-biology-book.git
-[submodule "bulk-rnaseq-analysis-workflow"]
-	path = bulk-rnaseq-analysis-workflow
-	url = git@github.com:paymantohidifar/bulk-rnaseq-analysis-workflow.git
 [submodule "biocanvas"]
 	path = biocanvas
 	url = https://github.com/paymantohidifar/BioCanvas.git
@@ -19,3 +16,6 @@
 [submodule "DNA-receptors"]
 	path = DNA-receptors
 	url = https://github.com/paymantohidifar/DNA-receptors.git
+[submodule "lung-cancer-bulk-rnaseq-analysis"]
+	path = lung-cancer-bulk-rnaseq-analysis
+	url = git@github.com:paymantohidifar/lung-cancer-bulk-rnaseq-analysis.git
