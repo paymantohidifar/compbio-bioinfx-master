@@ -6,16 +6,16 @@
 	url = git@github.com:paymantohidifar/deep-learning-for-biology-book.git
 [submodule "biocanvas"]
 	path = biocanvas
-	url = https://github.com/paymantohidifar/BioCanvas.git
+	url = git@github.com:paymantohidifar/BioCanvas.git
 [submodule "alcohol-receptors"]
 	path = alcohol-receptors
-	url = https://github.com/paymantohidifar/alcohol-receptors.git
+	url = git@github.com:paymantohidifar/alcohol-receptors.git
 [submodule "pH-receptors"]
 	path = pH-receptors
-	url = https://github.com/paymantohidifar/pH-receptors.git
+	url = git@github.com:paymantohidifar/pH-receptors.git
 [submodule "DNA-receptors"]
 	path = DNA-receptors
-	url = https://github.com/paymantohidifar/DNA-receptors.git
+	url = git@github.com:paymantohidifar/DNA-receptors.git
 [submodule "lung-cancer-bulk-rnaseq-analysis"]
 	path = lung-cancer-bulk-rnaseq-analysis
 	url = git@github.com:paymantohidifar/lung-cancer-bulk-rnaseq-analysis.git
