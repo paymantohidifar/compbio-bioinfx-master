@@ -16,6 +16,8 @@ This parent repository serves as a unified, organized entry point to my computat
 
 * **[Deep Learning For Biology: Personal Study Notes & Reference](https://github.com/paymantohidifar/deep-learning-for-biology-book.git)**
 
+* **[Bioinformatics Data Skills: Personal Study Notes & Reference](https://github.com/paymantohidifar/bioinfx-data-skills-book.git)**
+
 * **[pH Receptors](https://github.com/paymantohidifar/pH-receptors.git)**
   *Conservation analysis of key pH-sensing and neighboring amino acid residues in bacterial chemoreceptors supporting the research paper: "The Mechanism of Bidirectional pH Taxis in Bacillus subtilis" (2020) J Bacteriol. doi: 10.1128/JB.00491-19.*
 
@@ -25,5 +27,5 @@ This parent repository serves as a unified, organized entry point to my computat
 * **[DNA Receptors](https://github.com/paymantohidifar/DNA-receptors.git)**
   *Sequence analysis of receptor-binding DNA motifs.*
 
-* **[Bioinformatics Data Skills: bioinfx-data-skills-book: Personal Study Notes & Reference](https://github.com/paymantohidifar/bioinfx-data-skills-book.git)**
+
 
