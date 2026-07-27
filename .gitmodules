@@ -19,3 +19,6 @@
 [submodule "lung-cancer-bulk-rnaseq-analysis"]
 	path = lung-cancer-bulk-rnaseq-analysis
 	url = git@github.com:paymantohidifar/lung-cancer-bulk-rnaseq-analysis.git
+[submodule "protein-function-deep-learning"]
+	path = protein-function-deep-learning
+	url = git@github.com:paymantohidifar/protein-function-deep-learning.git
