@@ -10,6 +10,7 @@ This parent repository serves as a unified, organized entry point to my computat
 *An end-to-end computational biology workflow for analyzing bulk RNA-sequencing data from the Cancer Cell Line Encyclopedia (CCLE).*
 
 * **[Protein Function Prediction with Deep Learning](https://github.com/paymantohidifar/protein-function-deep-learning.git)**
+*A compact, hackable deep learning platform for predicting protein function (GO terms) from protein language model embeddings.*
 
 * **[BioCanvas](https://github.com/paymantohidifar/BioCanvas.git)**
 *An interactive GUI for processing, statistical analysis, and visualization of multi-modal biological data.*
