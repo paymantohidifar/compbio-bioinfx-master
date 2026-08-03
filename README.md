@@ -16,6 +16,7 @@ This parent repository serves as a unified, organized entry point to my computat
 *An interactive GUI for processing, statistical analysis, and visualization of multi-modal biological data.*
 
 * **[Deep Learning For Biology: Personal Study Notes & Reference](https://github.com/paymantohidifar/deep-learning-for-biology-book.git)**
+*A centralized hub for my personal study notes, architecture breakdowns, and implementations derived from Deep Learning for Biology by Christoff Ravarani and Natasha Latysheva.*
 
 * **[Bioinformatics Data Skills: Personal Study Notes & Reference](https://github.com/paymantohidifar/bioinfx-data-skills-book.git)**
 
